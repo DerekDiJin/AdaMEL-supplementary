@@ -1,0 +1,106 @@
+<page title>:<page title>
+package contents:package contents,product description
+manufacturer part number:manufacturer part number,mpn
+product model:product model,model
+product name:product name
+manufacturer:manufacturer,brand name,brand,product line
+product type:product type,device type
+features:features
+
+response time:response time
+aspect ratio:aspect ratio
+contrast ratio:contrast ratio
+brightness:brightness,display brightness
+backlight technology:backlight technology
+display technology:display technology
+display:display,display type
+
+screen size:screen size
+width:width
+depth:depth
+height:height
+vertical viewing angle:vertical viewing angle
+horizontal viewing angle:horizontal viewing angle
+maximum resolution:maximum resolution,max resolution,max. resolution,display resolution,native resolution
+
+vga:vga
+dvi:dvi
+hdmi:hdmi
+screen mode:screen mode
+
+number of screens:number of screens
+input voltage:input voltage
+speakers:speakers,number of speakers,builtin speakers
+colour:colour,color,colour of product
+condition:condition
+
+#STOP
+operating power consumption:operating power consumption
+green compliance certificateauthority:green compliance certificateauthority
+colour support:colour support
+adjustable display angle:adjustable display angle
+green compliant:green compliant
+weight approximate:weight approximate
+depth with stand:depth with stand
+width with stand:width with stand
+weight:weight
+vesa mount compatible:vesa mount compatible
+country:country
+item sort:item sort
+minimum bid count:minimum bid count
+minimum price:minimum price
+payment method:payment method
+height with stand:height with stand
+standby power consumption:standby power consumption
+builtin devices:builtin devices
+pixel pitch:pixel pitch
+tilt angle:tilt angle
+standard refresh rate:standard refresh rate
+vesa mount standard:vesa mount standard
+platform supported:platform supported
+upc:upc
+limited warranty:limited warranty,manufacturer warranty
+certifications  standards:certifications  standards
+panel technology:panel technology
+adjustable display height:adjustable display height
+displayport:displayport
+compliant standards:compliant standards
+adjustable display pivot:adjustable display pivot
+video inputs:video inputs
+product series:product series
+mount type:mount type
+dimensions wxdxh:dimensions wxdxh
+weight with stand approximate:weight with stand approximate
+system:system
+usb:usb
+display position adjustments:display position adjustments
+input connectors:input connectors
+offmode power consumption:offmode power consumption
+hdcp:hdcp,hdcp supported
+cables included:cables included
+screen surface:screen surface
+viewing angle vertical:viewing angle vertical
+display diagonal:display diagonal
+viewing angle horizontal:viewing angle horizontal
+vga dsub ports quantity:vga dsub ports quantity
+power consumption typical:power consumption typical
+environmental standards:environmental standards
+native resolution:
+color:
+mpn:
+brand:
+hdcp supported:
+product line:
+manufacturer warranty:
+brand name:
+model:
+product description:
+device type:
+display brightness:
+max. resolution:
+number of speakers:
+display type:
+display resolution:
+max resolution:
+colour of product:
+builtin speakers:
