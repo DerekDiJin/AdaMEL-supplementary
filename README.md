@@ -4,7 +4,9 @@ This repo is for the supplementary materials of AdaMEL proposed in the paper bel
 **Paper**: Di Jin, Bunyamin Sisman, Hao Wei, Xin Luna Dong, and Danai Koutra. 2021. Deep transfer learning for multi-source entity linkage via domain adaptation. Proc. VLDB Endow. 15, 3 (November 2021), 465–477.
 
 
-It contains the public dataset and preprocessing scripts used in the experiments.
+It contains the public dataset and preprocessing scripts used in the experiments, it is one of the benchmark datasets given by DI2KG 2019 Challenge. You may also find the raw public dataset as follows:
+
+*Link*: http://di2kg.inf.uniroma3.it/datasets.html
 
 
 
